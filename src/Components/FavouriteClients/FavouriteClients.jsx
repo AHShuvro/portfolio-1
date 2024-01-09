@@ -12,7 +12,7 @@ const FavouriteClients = () => {
                 <div>
                     <p className='text-[1.12rem] font-light text-[#858792] font-poppins'> ||  Favourite Clients
                     </p>
-                    <h2 className=' text-[#fff] text-[4.37rem] font-bold mt-4'>Work With Trusted Comapny.</h2>
+                    <h2 className=' text-[#fff] text-[2.25rem] md:text-[2.5rem] lg:text-[3.12rem] xl:text-[4.37rem] font-bold mt-4'>Work With Trusted Comapny.</h2>
                 </div>
                 <div className='flex justify-between mt-[7.5rem]'>
 

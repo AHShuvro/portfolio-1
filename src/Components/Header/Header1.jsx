@@ -5,9 +5,6 @@ const Header1 = () => {
     return (
         <>
 
-
-
-
             <div className='bg-[#252734]  sticky top-0 z-50'>
                 <div className='container'>
                     <div className="navbar  font-poppins">
@@ -24,7 +21,7 @@ const Header1 = () => {
                                     <li className=' text-[1.12rem] leading-[7.5rem] text-[#858792]'>Contact</li>
                                 </ul>
                             </div>
-                            <a className=""><img className='w-[4.68rem]' src="assets/img/logo.webp" alt="" /></a>
+                            <a className=""><img className='w-[10.68rem] h-[3.43rem]' src="assets/img/logo.webp" alt="" /></a>
                         </div>
                         <div className="hidden lg:flex">
                             <ul className='flex gap-12'>
